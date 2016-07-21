@@ -1,0 +1,20 @@
+{
+  "name": "react-nodejs-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "htt",
+  "license": "ISC",
+  "dependencies": {
+    "babel-loader": "^6.2.4",
+    "css-loader": "^0.23.1",
+    "ejs": "^2.4.2",
+    "express": "^4.14.0",
+    "nodemon": "^1.9.2",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1"
+  }
+}
